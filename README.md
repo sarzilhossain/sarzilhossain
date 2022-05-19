@@ -1,4 +1,4 @@
-## Name: Sarzil Hossain [(My Portfolio)](https://github.com/prmethus)
+## Name: Sarzil Hossain [(My Portfolio)](https:/prmethus.github.io)
 
 ### Identity: A 16 year old Student, Programmer, AI and Data Science enthusiast from Bangladesh!
 ### My Skills: Machine Learning and Data Analysis in Python using NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn, OpenCV, Keras and TensorFlow.
