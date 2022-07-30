@@ -6,7 +6,7 @@
 
 </br>
 
-![](Images/Typing.GIF)
+<img src='Images/Typing.GIF">
 
 <br>
 
@@ -32,10 +32,8 @@
 ### Database Management Systems
 
 <div class="display:flex">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg
-" height="50px" width="45px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg
-" height="50px" width="40px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="50px" width="45px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="50px" width="40px">
 </div>
 
 </br>
@@ -44,12 +42,9 @@
 
 <div class="display:flex">
 <img src="
-https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg
-" height="50px" width="40px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg
-" height="50px" width="35px">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg
-" height="50px" width="40px">
+https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="50px" width="40px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="50px" width="35px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="50px" width="40px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="50px" width="50px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" height="50px" width="40px">
 </div>
