@@ -41,8 +41,7 @@
 ### Other Tools
 
 <div class="display:flex">
-<img src="
-https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="50px" width="40px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" height="50px" width="40px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="50px" width="35px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="50px" width="40px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="50px" width="50px">
