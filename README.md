@@ -6,7 +6,7 @@
 
 </br>
 
-<img src='Images/Typing.GIF">
+![](Images/Typing.GIF)
 
 <br>
 
