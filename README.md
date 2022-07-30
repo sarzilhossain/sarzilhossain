@@ -49,8 +49,12 @@
 </div>
 
 </br>
+</br>
+
 
 ## Getting Pythonic!
+
+</br>
 
 ### Data Manipulation
 <img src="Images/data_man_prmethus.png">
