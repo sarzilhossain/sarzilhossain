@@ -50,6 +50,8 @@
 
 </br>
 
+## Getting Pythonic!
+
 ### Data Manipulation
 <img src="Images/data_man_prmethus.png">
 
