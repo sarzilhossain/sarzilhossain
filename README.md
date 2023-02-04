@@ -26,6 +26,18 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="50px" width="30px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="50px" width="30px">
 </div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="50px" width="30px">
+</br>
+
+### Full Stack Web Dev
+
+<div class="display:flex">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-origina.svg" height="50px" width="30px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="50px" width="30px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="50px" width="30px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/svelte/svelte-original.svg" height="50px" width="30px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="50px" width="30px">
+</div>
 
 </br>
 
@@ -34,6 +46,7 @@
 <div class="display:flex">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="50px" width="45px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="50px" width="40px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" height="50px" width="40px">
 </div>
 
 </br>
@@ -46,6 +59,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="50px" width="40px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="50px" width="50px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" height="50px" width="40px">
+</div>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" height="50px" width="40px">
 </div>
 
 </br>
