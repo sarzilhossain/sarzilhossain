@@ -27,11 +27,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="50px" width="30px">
 </div>
 
+</br>
 ### Full Stack Web Dev
 
 <div class="display:flex">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="50px" width="30px">
-</br>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="50px" width="30px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="50px" width="30px">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="50px" width="30px">
